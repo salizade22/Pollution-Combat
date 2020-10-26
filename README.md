@@ -16,7 +16,7 @@ Instructions:
 
 -Levels change as your score increases. 30 points===last level
 
--When game over close and exit 
+-When game finishes close and exit 
 
 
 
