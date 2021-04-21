@@ -1,22 +1,24 @@
 
+### Description:
 A Java Project to illustrate the use of Graphics and Objects in Object-Oriented programming Concepts like metamorphism, multithreading, interfaces, Classes are used. You are the protector of the ocean against pollution from toxin emitting transport systems. Will you win?
-To compile and run:
 
+### To compile and run:
+
+```bash
 -javac *.java
 -java Main
+```
 
 
-Instructions:
+### Instructions:
 
--SPACE to shoot.
+- To shoot press SPACE.
 
--Move with arrow buttons
+- To move press with arrow buttons in the desired direction.
 
--P to pause
+- To pause press P
 
--Levels change as your score increases. 30 points===last level
-
--When game finishes close and exit 
+- As your score inreases level become harder. Once you have 30 points you will reach last level. 
 
 
 
